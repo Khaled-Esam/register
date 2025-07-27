@@ -1,0 +1,13 @@
+{
+  "description": "My Real Estate project",
+  "owner": {
+    "username": "<Khaled-Esam>",
+    "email": "<khaledalabadla6666@gmail.com>"
+  },
+  "record": {
+    "NS": [
+      "ns1.epizy.com",
+      "ns2.epizy.com"
+    ]
+  }
+}
